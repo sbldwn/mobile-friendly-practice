@@ -12,3 +12,10 @@ h1 {
     text-transform: uppercase;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
+
+footer {
+    background-color: lightblue;
+    height: 80px;
+    /* position: fixed;
+    bottom: 0; */
+}
